@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 🔭 I'm currently working on expanding my React knowledge and becoming an efficient developer by utilizing tools and libraries.
 - 👯 I'm looking to collaborate on any frontend projects using CSS, Tailwind, JavaScript, or React.
-- 🌱 I'm currently learning the React Redux and Redux/toolkit libraries as well as security first approaches to development.
+- 🌱 I'm currently learning the React Redux, Redux/toolkit libraries and React Router as well as security first approaches to development.
 - 💬 Ask me about anything Frontend related or about API integrations.
 - ⚡ Fun fact, I have a background in hospitality and managing booking systems and have graduated a Full-Stack Coding bootcamp.
 - 📫 How to reach me:<br> Email : renaldasb1999@gmail.com, <br>Linkedin: https://linkedin.com/in/https://www.linkedin.com/in/renaldasbendikas/
